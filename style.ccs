@@ -1,17 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-<center>
-<title>My Dream Place</title>
-<body style="background-color:
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 </head>
 <body>
- background-color: RED;   
 
-<h1>My PLace</h1>
-<p>My Country.</p>
-<img src="pic_trulli.jpg" alt="Italian Trulli">
-
+<h1>This is my html + css</h1>
+<p>MY PROJECT.</p>
 
 </body>
 </html>
+
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
